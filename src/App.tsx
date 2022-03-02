@@ -57,8 +57,6 @@ function App() {
     updateData([...data, ...posts]);
   }
 
-  console.log(data);
-
   return (
     <ul>
       {data.map((post) => (
