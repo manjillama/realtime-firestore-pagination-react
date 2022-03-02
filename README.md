@@ -32,6 +32,10 @@ Head to your Cloud Firestore console and create a `posts` collection. Add few do
 ### Run application
 
 ```sh
+yarn install # Install dependencies or npm install
+```
+
+```sh
 yarn start
 ```
 
